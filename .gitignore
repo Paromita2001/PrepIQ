@@ -1,0 +1,52 @@
+# ─── Secrets (NEVER commit these) ────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+*.cover
+
+# ─── Node / Frontend ─────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+*.log
+logs.txt
+logs/
+
+# ─── OS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ─────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ─── Misc ────────────────────────────────────────────────────────────────────
+*.sqlite3
+*.db

@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 1,
+    "student_answer": "Ohm's law says V = IR where V is voltage, I is current and R is resistance.",
+    "human_score": 1.0,
+    "note": "Complete answer with formula and variables"
+  },
+  {
+    "question_id": 1,
+    "student_answer": "Current is proportional to voltage.",
+    "human_score": 0.5,
+    "note": "Partial - missing formula"
+  },
+  {
+    "question_id": 1,
+    "student_answer": "Ohm's law is about electricity.",
+    "human_score": 0.0,
+    "note": "Too vague, no content"
+  },
+  {
+    "question_id": 2,
+    "student_answer": "I = V/R = 10/5 = 2 A",
+    "human_score": 2.0,
+    "note": "Perfect calculation with unit"
+  },
+  {
+    "question_id": 2,
+    "student_answer": "I = 10/5 = 2",
+    "human_score": 1.5,
+    "note": "Correct calculation, missing unit"
+  },
+  {
+    "question_id": 2,
+    "student_answer": "The current is 5 A",
+    "human_score": 0.0,
+    "note": "Wrong answer"
+  },
+  {
+    "question_id": 3,
+    "student_answer": "R total = R1 + R2 = 4 + 6 = 10 ohm",
+    "human_score": 2.0,
+    "note": "Correct formula and answer"
+  },
+  {
+    "question_id": 3,
+    "student_answer": "10 ohm",
+    "human_score": 1.0,
+    "note": "Correct answer but no formula shown"
+  },
+  {
+    "question_id": 4,
+    "student_answer": "1/R = 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1. So R = 1 ohm.",
+    "human_score": 3.0,
+    "note": "Perfect solution with all steps"
+  },
+  {
+    "question_id": 4,
+    "student_answer": "1/R = 1/2 + 1/3 + 1/6. R = 1 ohm.",
+    "human_score": 2.5,
+    "note": "Formula and answer correct, intermediate steps missing"
+  },
+  {
+    "question_id": 5,
+    "student_answer": "R = V squared divided by P = 220 x 220 / 60 = 806.67 ohm",
+    "human_score": 2.0,
+    "note": "Correct formula and calculation"
+  },
+  {
+    "question_id": 5,
+    "student_answer": "R = P/V = 60/220 = 0.27 ohm",
+    "human_score": 0.5,
+    "note": "Wrong formula used, at least showed attempt"
+  },
+  {
+    "question_id": 6,
+    "student_answer": "Joule's law: heat is proportional to square of current, resistance and time. H = I squared x R x t",
+    "human_score": 3.0,
+    "note": "Full marks - all three points and formula"
+  },
+  {
+    "question_id": 6,
+    "student_answer": "H = I squared Rt",
+    "human_score": 1.5,
+    "note": "Formula correct but law not stated properly"
+  },
+  {
+    "question_id": 7,
+    "student_answer": "(B) Coulomb",
+    "human_score": 1.0,
+    "note": "Correct MCQ"
+  },
+  {
+    "question_id": 7,
+    "student_answer": "(A) Ampere",
+    "human_score": 0.0,
+    "note": "Wrong MCQ"
+  },
+  {
+    "question_id": 8,
+    "student_answer": "Potential difference is work done per unit charge. V = W/Q. Unit is Volt.",
+    "human_score": 2.0,
+    "note": "Complete definition with formula and unit"
+  },
+  {
+    "question_id": 8,
+    "student_answer": "It is the difference in potential between two points.",
+    "human_score": 0.5,
+    "note": "Vague, no formula or unit"
+  },
+  {
+    "question_id": 9,
+    "student_answer": "Resistance depends on length, area of cross section, and material of conductor. R = rho times L divided by A.",
+    "human_score": 3.0,
+    "note": "All factors and formula"
+  },
+  {
+    "question_id": 9,
+    "student_answer": "Resistance depends on length and material.",
+    "human_score": 1.5,
+    "note": "Only 2 of 4 factors, no formula"
+  }
+]
